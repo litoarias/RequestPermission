@@ -27,15 +27,15 @@ extension SPRequestPermissionData {
     
     struct texts {
         static func title() -> String {
-            return "Hello!"
+            return "Hola!"
         }
         
         static func subtitile() -> String {
-            return "Application needs permission"
+            return "La aplicación necesita los siguiente permisos"
         }
         
         static func advice() -> String {
-            return "Allow permission please. This helps to use application"
+            return "Permitir permisos por favor. Esto ayuda a utilizar la aplicación"
         }
         
         static func advice_additional() -> String {
@@ -43,51 +43,51 @@ extension SPRequestPermissionData {
         }
         
         static func enable_camera() -> String {
-            return "Enable Camera"
+            return "Habilitar Camera"
         }
         
         static func enable_photoLibrary() -> String {
-            return "Enable PhotoLibrary"
+            return "Habilitar PhotoLibrary"
         }
         
         static func enable_notification() -> String {
-            return "Enable Notification"
+            return "Habilitar Notification"
         }
         
         static func enable_microphone() -> String {
-            return "Enable Microphone"
+            return "Habilitar Microphone"
         }
         
         static func enable_calendar() -> String {
-            return "Enable Calendar"
+            return "Habilitar Calendar"
         }
         
         static func enable_location() -> String {
-            return "Enable Location"
+            return "Habilitar Location"
         }
         
         static func enable_contacts() -> String {
-            return "Enable Contacts"
+            return "Habilitar Contacts"
         }
         
         static func enable_reminedrs() -> String {
-            return "Enable Reminedrs"
+            return "Habilitar Reminedrs"
         }
         
         static func swipe_for_hide() -> String {
-            return "Swipe to hide"
+            return "Arrastrar para ocultar"
         }
         
         static func cancel() -> String {
-            return "Cancel"
+            return "Cancelar"
         }
         
         static func settings() -> String {
-            return "Settings"
+            return "Ajustes"
         }
         
         static func titleDisablePermissionAlertText() -> String {
-            return "Important"
+            return "Importante"
         }
         
         static func subtitleDisablePermissionAlertText() -> String {
